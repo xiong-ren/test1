@@ -1,3 +1,2 @@
-p <- 3
-q <- p^3
-q
+system( paste ( ’”C: /Program Files /Internet Explorer/ iexplore . exe” ’ ,
+               3 ’ cran . r−project . org ’ ) , wait = FALSE)
